@@ -1,3 +1,6 @@
+<!-- AM: added if condition which checks for publications page: bootstrap.css(edited) to include the list group-->
+<!-- AM: added if condition which checks for publications page: style that auto hide the image when screen width is below threshold-->
+
 {% include base_path %}
 
 <!-- start custom head snippets -->
@@ -24,3 +27,16 @@
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 <!-- end custom head snippets -->
+
+{% if page.title == "Publications" %}
+	<link rel="stylesheet" href="/assets/css/bootstrap.css">
+	<style type="text/css">
+	@media screen and (max-width:500px)
+	{
+		.auto-hide-image img 
+		{
+			display: none;
+		}
+	}
+	</style>
+{% endif %}
