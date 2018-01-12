@@ -11,5 +11,5 @@ author_profile: true
 
 ## As Volunteer Lecturer
 * "Tic-Tac-Toe Game Design Using Object-oriented Programming"  
-_SYDE 121: Digital Computation: Introduction to C++ Programming_
+_SYDE 121: Digital Computation: Introduction to C++ Programming_ - Fall 2017
 
