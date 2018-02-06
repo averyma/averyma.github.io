@@ -14,7 +14,7 @@ _University of Waterloo - [Vision and Image Processing Lab](https://uwaterloo.ca
   * Advised by Prof. Alex Wong
   * Large-scale graphical inference using GraphChi
 <p style="margin: 20px 0px 0px 0px;"></p>
-* **Research Assistant**, Co-op, May 2013 - Aug 2013  
+* **Research Assistant**, Co-op, May - Aug 2013  
 _University Health Network - Princess Margaret Hospital, [Guided Therapeutics Lab](http://www.uhnresearch.ca/service/guided-therapeutics-program-gtx)_, Toronto ON
   * Advised by [Dr. Robert Weersink](http://www.ibbme.utoronto.ca/faculty/members/weersink/)
   * 3D imaging and reconstruction system for intra-operative object registration  

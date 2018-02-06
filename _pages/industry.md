@@ -4,7 +4,7 @@ title: "Industry Experience"
 author_profile: true
 ---
 
-* **Mechatronics Engineer**, Co-op, Sept 2015 - Dec 2015  
+* **Mechatronics Engineer**, Co-op, Sept - Dec 2015  
 _[Bendix Commercial Vehicle Systems](http://www.bendix.com/en/) - Vehicle Electronics Group_, Cleveland OH
   * Developed an embedded program for a tire pressure monitoring system (TPMS)
 <p style="margin: 20px 0px 0px 0px;"></p>
