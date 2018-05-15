@@ -14,4 +14,3 @@ University of Waterloo, Canada, 2017-2018
 University of Waterloo, Canada, 2016-2017
 * President’s Scholarship  
 University of Waterloo, Canada, 2011
-
