@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Avery Ma 马博杰"
   avatar           : "bio.jpg"
-  bio              : "MASc student in Vision and Image Processing (VIP) Lab at the University of Waterloo"
-  location         : "Waterloo, ON"
+  bio              : "PhD student in the Machine Learning Group at the University of Toronto"
+  location         : "Toronto, ON"
   employer         :
   googlescholar    : "https://scholar.google.ca/citations?user=z6fDbkUAAAAJ&hl=en"
-  email            : avery.ma@uwaterloo.ca
+  email            : ama@cs.toronto.edu
   uri              :
   bitbucket        :
   codepen          :
