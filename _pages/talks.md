@@ -11,7 +11,7 @@ author_profile: true
 * **Avery Ma,** Alexander Wong: Enhanced depth from defocus via active quasi-random colored point projections. **Oral Presentation** at the 9th International Conference on Inverse Problems in Engineering. University of Waterloo, Waterloo, Ontario.
 * **Avery Ma,** Francis Li, Alexander Wong: Depth from defocus via active quasi-random point projections. **Poster Presentation** at the 2nd Conference on Vision and Imaging Systems. University of Waterloo, Waterloo, Ontario
 
-# Invited Talks
+# Talks
 * University of Waterloo, Vision and Image Processing Lab (Nov, 2017)  
 _"Real-time Spatial-based Resolution Enhancement"_
 

@@ -5,7 +5,7 @@ author_profile: true
 ---
 # About me
 
-I am a PhD student in the Machine Learning Group at the University of Toronto and Vector Institute. My supervisors are [Amir-massoud Farahmand](https://vectorinstitute.ai/team/amir-massoud-farahmand/) and [Prof. Richard Zemel](http://www.cs.toronto.edu/~zemel/inquiry/home.php). 
+I am a PhD student in the Machine Learning Group at the University of Toronto and Vector Institute. My supervisors are [Prof. Amir-massoud Farahmand](https://vectorinstitute.ai/team/amir-massoud-farahmand/) and [Prof. Richard Zemel](http://www.cs.toronto.edu/~zemel/inquiry/home.php). 
 
 My primary research interests are in the security and adversarial robustness of learning algorithms.
 
