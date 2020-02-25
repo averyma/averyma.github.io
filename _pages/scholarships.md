@@ -1,6 +1,6 @@
 ---
-permalink: /awards/
-title: "Honors and Achievements"
+permalink: /scholarships/
+title: "Scholarships"
 author_profile: true
 ---
 
