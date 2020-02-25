@@ -10,7 +10,6 @@ author_profile: true
 * SYDE 121: Digital Computation: Introduction to C++ Programming - Fall 2017
 * SYDE 311: Advanced Engineering Math 2: Numerical Methods for ODEs - Spring 2016
 
-## As Volunteer Lecturer
-* "Tic-Tac-Toe Game Design Using Object-oriented Programming"  
-_SYDE 121: Digital Computation: Introduction to C++ Programming_ - Fall 2017
+## As Guest Lecturer
+* SYDE 121: Digital Computation: Introduction to C++ Programming - Fall 2017
 
