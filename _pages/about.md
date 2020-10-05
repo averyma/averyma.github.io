@@ -16,7 +16,11 @@ Prior to coming to UofT, I studied at the University of Waterloo, where I comple
 My Master’s thesis focuses on 3D reconstruction technologies. I am building a novel active depth sensing system that infers depth by analyzing the blurriness of the projection pattern at different depth levels caused by camera defocus. Without relying on complex hardware, I developed a computational depth inference model based on parametric estimation approach([Gaussian based](http://openjournals.uwaterloo.ca/index.php/vsl/article/view/96)) and non-parametric estimation ([Deep learning-driven](http://openjournals.uwaterloo.ca/index.php/vsl/article/view/165)). -->
 
 # Recent News 
-Jun 2018: The real-time projector super-resolution enhancement approach developed during my intern at Christie Digital was [patented](https://patentimages.storage.googleapis.com/e3/69/58/de9300c78a13a6/US10009587.pdf).
+May 2020: Joined Huawei Noah's Ark Lab as a research intern
+
+Sep 2019: Started PhD at the University of Toronto/Vector Institute under Amir-massoud and Rich
+
+Jun 2018: The projector super-resolution enhancement technique developed during my intern at Christie Digital was [patented](https://patentimages.storage.googleapis.com/e3/69/58/de9300c78a13a6/US10009587.pdf).
 
 Apr 2018: My Master's research work on 3D reconstruction technologies was featured on [CTV News](https://kitchener.ctvnews.ca/video?clipId=1359802).
 
