@@ -18,7 +18,7 @@ My Master’s thesis focuses on 3D reconstruction technologies. I am building a 
 # Recent News 
 May 2020: Joined Huawei Noah's Ark Lab as a research intern
 
-Sep 2019: Started PhD at the University of Toronto/Vector Institute under Amir-massoud and Rich
+Sep 2018: Started PhD at the University of Toronto/Vector Institute under Amir-massoud and Rich
 
 Jun 2018: The projector super-resolution enhancement technique developed during my intern at Christie Digital was [patented](https://patentimages.storage.googleapis.com/e3/69/58/de9300c78a13a6/US10009587.pdf).
 
