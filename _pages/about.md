@@ -16,6 +16,8 @@ Prior to coming to UofT, I studied at the University of Waterloo, where I comple
 My Master’s thesis focuses on 3D reconstruction technologies. I am building a novel active depth sensing system that infers depth by analyzing the blurriness of the projection pattern at different depth levels caused by camera defocus. Without relying on complex hardware, I developed a computational depth inference model based on parametric estimation approach([Gaussian based](http://openjournals.uwaterloo.ca/index.php/vsl/article/view/96)) and non-parametric estimation ([Deep learning-driven](http://openjournals.uwaterloo.ca/index.php/vsl/article/view/165)). -->
 
 # Recent News 
+May 2021: Joined Samsung AI Center as a research intern
+
 May 2020: Joined Huawei Noah's Ark Lab as a research intern
 
 Sep 2018: Started PhD at the University of Toronto/Vector Institute under Amir-massoud and Rich
