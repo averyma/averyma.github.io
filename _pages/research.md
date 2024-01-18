@@ -4,7 +4,7 @@ title: "Research Experience"
 author_profile: true
 ---
 
-* **Research Intern**, Sept 2022 - Dec 2022
+* **Research Intern**, Sept 2022 - Dec 2022  
 _[Huawei](http://www.noahlab.com.hk/#/home) - Noah's Ark Lab_, Toronto ON
   * Hosted by Yangchen Pan 
   * Implicit regularization effect of optimization methods and its connection to out-of-distribution generalization
