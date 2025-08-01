@@ -5,11 +5,11 @@ author_profile: true
 ---
 # About me
 
-I obtained my PhD from the University of Toronto, supervised by [Prof. Amir-massoud Farahmand](https://academic.sologen.net/) and [Prof. Richard Zemel](http://www.cs.toronto.edu/~zemel/inquiry/home.php). 
+I obtained my PhD from the University of Toronto, supervised by [Amir-massoud Farahmand](https://academic.sologen.net/) and [Rich Zemel](http://www.cs.toronto.edu/~zemel/inquiry/home.php). 
 
 **Research Goal:** My research combines both theoretical and empirical approaches to robustness and generalization in deep learning, with the goal of enabling more reliable AI systems. I currently focus on the safety and security of LLMs, advancing research that drives practical solutions for responsible AI deployment.
 
-Refer to [Research](https://averyma.github.io/research/) and [Publications](https://averyma.github.io/research/) for more information on my research, and to [CV](https://averyma.github.io/files/cv_github.pdf) for more information about my academic background.
+Refer to [Research](https://averyma.github.io/research/) and [Publications](https://averyma.github.io/publications/) for more information on my research, and to [CV](https://averyma.github.io/files/cv_github.pdf) for more information about my academic background.
 
 <!-- Prior to coming to UofT, I studied at the University of Waterloo, where I completed my BASc. in Mechatronics Engineering, and MASc. in Systems Design Engineering. During Masters, I worked at the Vision and Image Processing ([VIP](https://uwaterloo.ca/vision-image-processing-lab/)) Lab, supervised by [Prof. Alex Wong](http://www.eng.uwaterloo.ca/~a28wong/index.html) and [Prof. David Clausi](https://uwaterloo.ca/vision-image-processing-lab/people-profiles/david-clausi).-->
 
