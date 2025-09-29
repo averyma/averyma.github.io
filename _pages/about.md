@@ -14,6 +14,8 @@ Refer to [Research](https://averyma.github.io/research/) and [Publications](http
 <!-- Prior to coming to UofT, I studied at the University of Waterloo, where I completed my BASc. in Mechatronics Engineering, and MASc. in Systems Design Engineering. During Masters, I worked at the Vision and Image Processing ([VIP](https://uwaterloo.ca/vision-image-processing-lab/)) Lab, supervised by [Prof. Alex Wong](http://www.eng.uwaterloo.ca/~a28wong/index.html) and [Prof. David Clausi](https://uwaterloo.ca/vision-image-processing-lab/people-profiles/david-clausi).-->
 
 # Recent News 
+Sep 2025: Joined RBC Borealis as a research intern
+
 May 2025: One paper on LLM jailbreaking accepted at ICML 2025 (spotlight)
 
 Jul 2024: One paper on improving adversarial transferability accepted at ECCV 2024
