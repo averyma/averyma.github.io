@@ -5,16 +5,16 @@ author_profile: true
 ---
 # About me
 
-I obtained my PhD from the University of Toronto, supervised by [Amir-massoud Farahmand](https://academic.sologen.net/) and [Rich Zemel](http://www.cs.toronto.edu/~zemel/inquiry/home.php). 
+**Research Goal:** I study robustness and generalization in deep learning, combining theoretical and empirical approaches to help build more reliable AI systems. My current focus is LLM safety (jailbreaking, confidence calibration, uncertainty estimation, etc.), advancing research that drives practical solutions for responsible AI deployment.
 
-**Research Goal:** My research combines both theoretical and empirical approaches to robustness and generalization in deep learning, with the goal of enabling more reliable AI systems. I currently focus on the safety and security of LLMs, advancing research that drives practical solutions for responsible AI deployment.
+I recently completed my PhD in Computer Science at the University of Toronto, advised by [Amir-massoud Farahmand](https://academic.sologen.net/) and [Rich Zemel](http://www.cs.toronto.edu/~zemel/inquiry/home.php).
 
-Refer to [Research](https://averyma.github.io/research/) and [Publications](https://averyma.github.io/publications/) for more information on my research, and to [CV](https://averyma.github.io/files/cv_github.pdf) for more information about my academic background.
+Refer to [Research](https://averyma.github.io/research/) and [Publications](https://averyma.github.io/publications/), and [CV](https://averyma.github.io/files/cv_github.pdf) for more information about my academic background.
 
 <!-- Prior to coming to UofT, I studied at the University of Waterloo, where I completed my BASc. in Mechatronics Engineering, and MASc. in Systems Design Engineering. During Masters, I worked at the Vision and Image Processing ([VIP](https://uwaterloo.ca/vision-image-processing-lab/)) Lab, supervised by [Prof. Alex Wong](http://www.eng.uwaterloo.ca/~a28wong/index.html) and [Prof. David Clausi](https://uwaterloo.ca/vision-image-processing-lab/people-profiles/david-clausi).-->
 
 # Recent News 
-Sep 2025: Joined RBC Borealis as a research intern
+Sep 2025: Joined RBC Borealis as a visiting researcher
 
 May 2025: One paper on LLM jailbreaking accepted at ICML 2025 (spotlight)
 
