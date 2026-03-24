@@ -7,13 +7,15 @@ author_profile: true
 
 **Research Goal:** I study robustness and generalization in deep learning, combining theoretical and empirical approaches to help build more reliable AI systems. My current focus is LLM safety (jailbreaking, confidence calibration, uncertainty estimation, etc.), advancing research that drives practical solutions for responsible AI deployment.
 
-I recently completed my PhD in Computer Science at the University of Toronto, advised by [Amir-massoud Farahmand](https://academic.sologen.net/) and [Rich Zemel](http://www.cs.toronto.edu/~zemel/inquiry/home.php).
+I completed my PhD in Computer Science at the University of Toronto, advised by [Amir-massoud Farahmand](https://academic.sologen.net/) and [Rich Zemel](http://www.cs.toronto.edu/~zemel/inquiry/home.php).
 
 Refer to [Research](https://averyma.github.io/research/) and [Publications](https://averyma.github.io/publications/), and [CV](https://averyma.github.io/files/cv_github.pdf) for more information about my academic background.
 
 <!-- Prior to coming to UofT, I studied at the University of Waterloo, where I completed my BASc. in Mechatronics Engineering, and MASc. in Systems Design Engineering. During Masters, I worked at the Vision and Image Processing ([VIP](https://uwaterloo.ca/vision-image-processing-lab/)) Lab, supervised by [Prof. Alex Wong](http://www.eng.uwaterloo.ca/~a28wong/index.html) and [Prof. David Clausi](https://uwaterloo.ca/vision-image-processing-lab/people-profiles/david-clausi).-->
 
 # Recent News 
+Mar 2026: Joined RBC Borealis as a research scientist
+
 Sep 2025: Joined RBC Borealis as a visiting researcher
 
 May 2025: One paper on LLM jailbreaking accepted at ICML 2025 (spotlight)
@@ -26,9 +28,11 @@ Apr 2024: Selected as a [DAAD AInet fellow](https://www.daad.de/en/the-daad/post
 
 Nov 2023: One journal paper on understanding model robustness accepted at TMLR with Featured Certification (ICLR 2024 journal-to-conference track)
 
-Sep 2022: One paper on data augmentation accepted at BMVC 2022
+
 
 <!-- 
+Sep 2022: One paper on data augmentation accepted at BMVC 2022
+
 Jul 2021: Accepted to CIFAR DLRL Summer School
 
 May 2021: Joined Samsung AI Center as a research intern
